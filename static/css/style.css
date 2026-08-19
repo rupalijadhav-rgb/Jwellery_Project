@@ -1,0 +1,224 @@
+:root {
+    --maroon-primary: #701128;
+    --maroon-hover: #540c1d;
+    --gold-primary: #d4af37;
+    --cream-bg: #fcfbf7;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: 'Cinzel', serif !important;
+    color: #501e1e;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+/* Force the middle main content area to expand and take up all free space */
+main, .main-content, #main-container, .container-fluid.bg-cream {
+    flex: 1 0 auto;
+}
+
+/* Footer locked to bottom */
+footer {
+    flex-shrink: 0;
+}
+.bg-cream { background-color:cornsilk; width:100%; }
+.font-Cinzel { font-family: 'Playfair Display', serif; }
+.text-maroon { color: var(--maroon-primary); }
+.text-gold { color: var(--gold-primary); }
+
+
+header, .navbar{
+    background-color:seashell !important;
+    width: 100%;
+}
+
+.brand-title {
+    font-family: 'Cinzel',  serif;
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--maroon-primary);
+    display: block;
+    line-height: 1;
+}
+
+.brand-sub {
+    font-size: 0.55rem;
+    letter-spacing: 3px;
+    color: #777;
+    display: block;
+}
+
+.nav-item-link {
+    color: #444;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+}
+
+.nav-item-link.active, .nav-item-link:hover {
+    color: var(--maroon-primary);
+    font-weight: 600;
+}
+
+.search-input {
+    font-family: 'Poppins', sans-serif !important;
+    text-transform: none !important;
+    font-variant: normal !important;
+    border-radius: 20px;
+    padding-left: 35px;
+    font-size: 0.85rem;
+    border: 1px solid #ddd;
+    width: 220px;
+}
+
+.form-control {
+    font-family: 'Poppins', sans-serif !important;
+    text-transform: none !important;
+    font-variant: normal !important;
+}
+
+.search-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #888;
+    font-size: 0.85rem;
+}
+
+.btn-maroon {
+    background-color: var(--maroon-primary);
+    color: white;
+    border: none;
+}
+
+.btn-maroon:hover {
+    background-color: var(--maroon-hover);
+    color: white;
+}
+
+.bg-gold { background-color: var(--gold-primary); }
+
+/* Static Hero Banner */
+.hero-banner {
+    background: url('https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=1600&auto=format&fit=crop') center/cover no-repeat;
+    height: 65vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: rgba(40, 5, 12, 0.65);
+}
+
+.pill-btn {
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 6px 20px;
+    font-size: 0.85rem;
+    background: white;
+    color: #444;
+}
+
+.pill-btn.active, .pill-btn:hover {
+    background-color: var(--maroon-primary);
+    color: white;
+    border-color: var(--maroon-primary);
+}
+
+.product-card {
+    border: none;
+    border-radius: 12px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.04);
+}
+
+.product-card-img {
+    height: 250px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.badge-cat {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    background: var(--maroon-primary);
+    color: white;
+    font-size: 0.65rem;
+    padding: 4px 8px;
+    text-transform: uppercase;
+    border-radius: 4px;
+}
+
+.gold-line {
+    width: 50px;
+    height: 2px;
+    background: var(--gold-primary);
+}
+
+/* Product Image Card Container styling */
+.product-card {
+    border: none;
+    border-radius: 14px;
+    overflow: hidden;
+    background: #ffffff;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 12px rgba(112, 17, 40, 0.06);
+}
+
+.product-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(112, 17, 40, 0.12);
+}
+
+.product-card-img-wrapper {
+    position: relative;
+    width: 100%;
+    height: 240px;
+    background: radial-gradient(circle, #fffdfa 0%, #f7f0e6 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 12px;
+}
+
+.product-card-img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+    filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.12));
+    transition: transform 0.4s ease;
+}
+
+.product-card:hover .product-card-img {
+    transform: scale(1.06);
+}
+
+/* Footer Styles */
+.text-gold {
+    color: #d4af37 !important;
+}
+
+.hover-gold {
+    transition: color 0.2s ease-in-out;
+}
+
+.hover-gold:hover {
+    color: #d4af37 !important;
+}
+
+.extra-small {
+    font-size: 0.75rem;
+}
