@@ -71,7 +71,7 @@ def force_reset_and_seed():
         {
             "name": "Chandra Choker",
             "category": "choker",
-            "price": 2499,
+            "price": 300,
             "material": "Gold Plated · Crescent Motifs & Pink Stones",
             "description": "Traditional crescent moon motif gold necklace set with matching earrings.",
             "stock": "IN STOCK",
@@ -80,7 +80,7 @@ def force_reset_and_seed():
         {
             "name": "Invisible Choker",
             "category": "choker",
-            "price": 1199,
+            "price": 499,
             "material": "Delicate Wire · Pearl & Ruby Crescent Pendant",
             "description": "Minimalist delicate gold wire choker with pearl-accented pendant.",
             "stock": "IN STOCK",
@@ -89,7 +89,7 @@ def force_reset_and_seed():
         {
             "name": "Chandrakala Choker",
             "category": "choker",
-            "price": 2199,
+            "price": 500,
             "material": "Antique Gold Plated · Green Stone Drops",
             "description": "Elegant fitted temple-style choker with crescent design drops.",
             "stock": "IN STOCK",
@@ -98,7 +98,7 @@ def force_reset_and_seed():
         {
             "name": "Parijatak Choker",
             "category": "choker",
-            "price": 2799,
+            "price": 550,
             "material": "Handcrafted Seed Pearls · Floral Ruby Clusters",
             "description": "Floral parijat design woven pearl choker with matching Jhumkis.",
             "stock": "IN STOCK",
@@ -107,7 +107,7 @@ def force_reset_and_seed():
         {
             "name": "Shreekamal Choker",
             "category": "choker",
-            "price": 1899,
+            "price": 600,
             "material": "Green Meenakari Lotus · Kundan Work",
             "description": "Traditional lotus leaf meenakari choker with golden dori.",
             "stock": "IN STOCK",
@@ -117,7 +117,7 @@ def force_reset_and_seed():
         {
             "name": "Moti Bangles with Kalire",
             "category": "bangles",
-            "price": 1299,
+            "price": 899,
             "material": "Handcrafted Pearl Beads · Floral Ruby Hangings",
             "description": "Exquisite handcrafted pearl bangles attached with traditional hanging kalire.",
             "stock": "IN STOCK",
@@ -126,7 +126,7 @@ def force_reset_and_seed():
         {
             "name": "AshtaPailu Bracelet",
             "category": "bangles",
-            "price": 999,
+            "price": 799,
             "material": "Premium Micro Polish Finish · Gold Beads",
             "description": "Signature geometric faceted cut gold-toned bracelet type bangles.",
             "stock": "IN STOCK",
@@ -135,7 +135,7 @@ def force_reset_and_seed():
         {
             "name": "Handmade Parijatak Bangles Set",
             "category": "bangles",
-            "price": 1499,
+            "price": 1000,
             "material": "Woven Pearls · Floral Red Ruby Center",
             "description": "Set of 3 varieties of traditional handmade parijat pearl bangles.",
             "stock": "IN STOCK",
@@ -144,7 +144,7 @@ def force_reset_and_seed():
         {
             "name": "Parijatak Bracelet",
             "category": "bangles",
-            "price": 799,
+            "price": 399,
             "material": "Adjustable Gold Chain · Pearl Floral Motif",
             "description": "Elegant adjustable length pearl flower motif bracelet.",
             "stock": "IN STOCK",
@@ -191,7 +191,7 @@ def force_reset_and_seed():
         {
             "name": "Lavanya Side Earcuff",
             "category": "earcuff",
-            "price": 799,
+            "price": 599,
             "material": "Ruby Red Stones · Gold Plated Bead Edges & Seed Pearls",
             "description": "Charming side earcuff with bright ruby stones and pearl trim.",
             "stock": "IN STOCK",
@@ -200,7 +200,7 @@ def force_reset_and_seed():
         {
             "name": "AD Stone Side Earcuff",
             "category": "earcuff",
-            "price": 849,
+            "price": 599,
             "material": "Green Emerald Center · AD/Kundan Petal Stones & Pearl Accents",
             "description": "Sparkling AD stone side earcuff crafted to pair seamlessly with any saree.",
             "stock": "IN STOCK",
@@ -218,7 +218,7 @@ def force_reset_and_seed():
         {
             "name": "Pearl Earcuff Set",
             "category": "earcuff",
-            "price": 1499,
+            "price": 800,
             "material": "Handcrafted Seed Pearls · Floral Ruby & Emerald Accents · Golden Jhumka Drops",
             "description": "Exquisite artisanal pearl ear cuff set featuring intricate floral stone clusters and dangling textured jhumkis.",
             "stock": "IN STOCK",
@@ -227,7 +227,7 @@ def force_reset_and_seed():
         {
             "name": "Nathicha Saaj Grand Earcuff",
             "category": "earcuff",
-            "price": 1699,
+            "price": 850,
             "material": "Sunburst Gold Wire Fringe · Pearl Rosettes · Filigree Jhumkis",
             "description": "Statement bridal ear cuff featuring radiating gold spike details, multi-color stone centers, and full jhumka drops.",
             "stock": "IN STOCK",
@@ -236,7 +236,7 @@ def force_reset_and_seed():
         {
             "name": "Moti Nath Karnsaj",
             "category": "earcuff",
-            "price": 1299,
+            "price": 700,
             "material": "Basra Pearls · Red Teardrop Gemstone & Gold Beads",
             "description": "Graceful ear-hugging pearl motif earcuffs styled like a traditional nath.",
             "stock": "IN STOCK",
@@ -245,7 +245,7 @@ def force_reset_and_seed():
         {
             "name": "Kanvel (Multi-Layer Ear Chains)",
             "category": "earcuff",
-            "price": 899,
+            "price": 499,
             "material": "Hand-strung Pearls · Rice-Pearl Leaf Fringe",
             "description": "Multi-tier beaded ear chains with dangling rice pearl tassels.",
             "stock": "IN STOCK",
@@ -254,7 +254,7 @@ def force_reset_and_seed():
         {
             "name": "Parijatak Jhumka",
             "category": "earcuff",
-            "price": 999,
+            "price": 200,
             "material": "Petal Shaped Pearls · Ruby Red Center Stone & Golden Jhumka Drop",
             "description": "Handcrafted floral parijat pearl studs with delicate gold bell jhumkis.",
             "stock": "IN STOCK",
@@ -263,7 +263,7 @@ def force_reset_and_seed():
         {
             "name": "Double Flower Jhumka",
             "category": "earcuff",
-            "price": 1199,
+            "price": 399,
             "material": "Stacked Pearl Flowers · Ruby Stones & Pearl Bead Trim",
             "description": "Statement double-tiered floral pearl jhumkis with ruby centers.",
             "stock": "IN STOCK",
@@ -272,7 +272,7 @@ def force_reset_and_seed():
         {
             "name": "Parijatak Kanvel",
             "category": "earcuff",
-            "price": 1399,
+            "price": 699,
             "material": "Parijat Flower Studs · Gold Jhumki Drops & Pearl Strand Extensions",
             "description": "Complete traditional parijat jhumki set with triple-layer hair/ear chain attachments.",
             "stock": "IN STOCK",
@@ -282,7 +282,7 @@ def force_reset_and_seed():
         {
             "name": "Hair Brooch",
             "category": "hair accessories",
-            "price": 1099,
+            "price": 700,
             "material": "Pink Enamel Chandrakor · Hand-Strung Pearl Tassels",
             "description": "Traditional crescent hair brooch with multiple cascading pearl chains.",
             "stock": "IN STOCK",
@@ -291,7 +291,7 @@ def force_reset_and_seed():
         {
             "name": "Peacock Bridal Hair Accessory",
             "category": "hair accessories",
-            "price": 1299,
+            "price": 699,
             "material": "Twin Peacock Meenakari · Kundan Stones & Emerald Pearl Chains",
             "description": "Bridal hair ornament featuring twin peacock motifs with green bead hangings.",
             "stock": "IN STOCK",
@@ -302,7 +302,7 @@ def force_reset_and_seed():
         {
             "name": "Exclusive Royal Rings",
             "category": "ring",
-            "price": 799,
+            "price": 499,
             "material": "Adjustable Gold Plated Band · Ghungroo & Lotus/Crescent Enamel Motifs",
             "description": "Traditional Maharashtrian adjustable statement rings with crescent, lotus, and ghungroo details.",
             "stock": "IN STOCK",
@@ -311,7 +311,7 @@ def force_reset_and_seed():
         {
             "name": "Parijatak Ring",
             "category": "ring",
-            "price": 699,
+            "price": 299,
             "material": "Double-Tier Woven Rice Pearls · Center Emerald Green Gemstone",
             "description": "Double-layered parijat flower statement ring featuring an emerald green centerpiece.",
             "stock": "IN STOCK",
@@ -321,7 +321,7 @@ def force_reset_and_seed():
         {
             "name": "Moti Jul Anklet",
             "category": "anklet",
-            "price": 899,
+            "price": 399,
             "material": "Double Pearl Layer · Red Floral Gem Drop · Pearl Tassels",
             "description": "Handmade double-strand delicate pearl anklet featuring a red floral cluster center with dangling seed pearls.",
             "stock": "IN STOCK",
@@ -330,7 +330,7 @@ def force_reset_and_seed():
         {
             "name": "Kundan Layered Anklet",
             "category": "anklet",
-            "price": 999,
+            "price": 499,
             "material": "Gold Chain & Pearl Layer · Kundan Floral Pendant · Pearl Clusters",
             "description": "Dual-layer anklet combining fine gold link chain and pearl strand with a Kundan stone center drop.",
             "stock": "IN STOCK",
@@ -339,7 +339,7 @@ def force_reset_and_seed():
         {
             "name": "Green Moti Jul Anklet",
             "category": "anklet",
-            "price": 899,
+            "price": 499,
             "material": "Double Pearl Strand · Emerald Green Lotus Center Stone · Kundan Trim",
             "description": "Vibrant emerald green stone central charm framed by double pearl strands and Kundan accents.",
             "stock": "IN STOCK",
@@ -348,7 +348,7 @@ def force_reset_and_seed():
         {
             "name": "Kamal Ghungroo Anklet",
             "category": "anklet",
-            "price": 1099,
+            "price": 599,
             "material": "Gold Bead Chain · Red Meenakari Lotus Motif · Golden Ghungroo Drops",
             "description": "Traditional gold beaded anklet highlighting red lotus motifs with dangling golden bells.",
             "stock": "IN STOCK",
@@ -357,7 +357,7 @@ def force_reset_and_seed():
         {
             "name": "Lotus Anklet",
             "category": "anklet",
-            "price": 799,
+            "price": 499,
             "material": "Gold Chain · Pink Gem Lotus Motifs · Ruby Drop Beads",
             "description": "Delicate chain anklet adorned with repeating ruby-pink lotus motifs and bead drops.",
             "stock": "IN STOCK",
@@ -366,7 +366,7 @@ def force_reset_and_seed():
         {
             "name": "Exclusive Parrot Anklet",
             "category": "anklet",
-            "price": 849,
+            "price": 449,
             "material": "Sleek Gold Link Chain · Enamel Parrot Motif · Pearl Accents",
             "description": "Charming traditional parrot-shaped center charm on a delicate gold link chain.",
             "stock": "IN STOCK",
