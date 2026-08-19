@@ -8,7 +8,12 @@
 
 Here is a live walkthrough of the Kalakruti web application in action:
 
-https://github.com/user-attachments/assets/53cd0566-43e4-4984-8de9-742b126d0cd6
+
+
+<video src="https://github.com/user-attachments/assets/bb01741f-9ecf-4159-b7d3-220d56904bc8" controls width="100%"></video>
+
+
+
 ---
 
 ##  Application Screenshots
