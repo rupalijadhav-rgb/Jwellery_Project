@@ -10,7 +10,7 @@ Here is a live walkthrough of the Kalakruti web application in action:
 
 
 
-<video src="C:\Users\Rupali\OneDrive\Desktop\NGD_432\ProjectVideo.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/0b056be2-bc0a-456a-9a4c-2d9340a5a38d" controls width="100%"></video>
 
 
 
