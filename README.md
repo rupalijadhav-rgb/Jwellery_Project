@@ -17,7 +17,7 @@ Here is a live walkthrough of the Kalakruti web application in action:
 ### Homepage & Product Catalogue
 | :---: |
 
-<p align="center">
+<p align="left">
   <img src="assets/HomePage.png" alt="Homepage" width="80%">
 </p>
 
