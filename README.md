@@ -15,8 +15,11 @@ Here is a live walkthrough of the Kalakruti web application in action:
 ##  Application Screenshots
 
 ### Homepage & Product Catalogue
+| :---: |
 
-<img src="C:\Users\Rupali\OneDrive\Desktop\NGD_PROJECT\assets\HomePage.png" ></img>
+<p align="center">
+  <img src="assets/HomePage.png" alt="Homepage" width="80%">
+</p>
 
 ### Features Overview
 | Product Quick View Modal | Interactive Cart Drawer |
