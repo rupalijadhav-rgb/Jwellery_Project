@@ -1,10 +1,10 @@
 # Kalakruti | Handcrafted Maharashtrian Jewellery
 
- Kalakruti is a full-stack e-commerce web platform dedicated to showcasing and selling authentic Maharashtrian heritage jewellery (such as Thushi, Nath, and traditional necklaces). Built with Python Flask and Bootstrap 5.
+Kalakruti is a full-stack e-commerce web platform dedicated to showcasing and selling authentic Maharashtrian heritage jewellery (such as Thushi, Nath, and traditional necklaces). Built with Python Flask and Bootstrap 5.
 
 ---
 
-##  Demo & Screen Recording
+## 🎬 Demo & Screen Recording
 
 Here is a live walkthrough of the Kalakruti web application in action:
 
@@ -12,7 +12,7 @@ Here is a live walkthrough of the Kalakruti web application in action:
 
 ---
 
-##  Application Screenshots
+## 📸 Application Screenshots
 
 ### Homepage & Product Catalogue
 
@@ -43,7 +43,7 @@ Here is a live walkthrough of the Kalakruti web application in action:
 
 ---
 
-##  Key Features
+## ✨ Key Features
 
 * **Dynamic Product Catalogue**: Browse items filtered instantly by traditional categories (Thushi, Nath, etc.).
 * **Instant Search Bar**: Dynamic filtering of products by keyword.
@@ -76,17 +76,17 @@ Here is a live walkthrough of the Kalakruti web application in action:
 NGD_PROJECT/
 ├── app.py                  # Main Flask application entry point
 ├── requirements.txt        # Python dependencies
-├── assets/                 # Readme screenshots & demo GIF
-│   ├── demo.gif
-│   ├── homepage.png
-│   ├── modal.png
-│   ├── cart.png
-│   └── profile.png
+├── assets/                 # Readme screenshots
+│   ├── HomePage.png
+│   ├── Modal.png
+│   ├── Cart.png
+│   ├── Profile.png
+│   └── AdminPanel.png
 ├── static/                 # CSS, JS, and product images
 │   ├── css/
 │   └── js/
 └── templates/              # HTML templates (index.html, etc.)
-
+```
 
 ## Getting Started
 
