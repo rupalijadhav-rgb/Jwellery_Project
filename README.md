@@ -15,20 +15,31 @@ Here is a live walkthrough of the Kalakruti web application in action:
 ##  Application Screenshots
 
 ### Homepage & Product Catalogue
-| :---: |
 
 <p align="left">
   <img src="assets/HomePage.png" alt="Homepage" width="80%">
 </p>
 
-### Features Overview
-| Product Quick View Modal | Interactive Cart Drawer |
-| :---: | :---: |
-| ![Product Quick View](assets/modal.png) | ![Cart Drawer](assets/cart.png) |
+### Product Quick View
 
-| User Account & Sign-In |
-| :---: |
-| ![User Profile](assets/profile.png) |
+<p align="left">
+  <img src="assets/Modal.png" alt="Product Quick View" width="80%">
+</p>
+
+### Shopping Cart
+<p align="left">
+  <img src="assets/Cart.png" alt="Shopping Cart" width="80%">
+</p>
+
+### User Profile & Account
+<p align="left">
+  <img src="assets/Profile.png" alt="User Profile" width="80%">
+</p>
+
+### Admin Panel
+<p align="left">
+  <img src="assets/AdminPanel.png" alt="Admin Panel" width="80%">
+</p>
 
 ---
 
